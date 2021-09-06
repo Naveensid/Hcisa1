@@ -1,0 +1,8 @@
+com\Selko\Pages\LoginPage.class
+com\Selko\GenericLib\BaseTest.class
+com\Selko\GenericLib\WebDriverCommonLib.class
+com\Selko\Pages\CustomViewPage.class
+com\Selko\Pages\HomePage.class
+com\Selko\GenericLib\FileLib.class
+com\Selko\GenericLib\IAutoConsts.class
+com\Selko\Pages\CreateLeadPage.class
