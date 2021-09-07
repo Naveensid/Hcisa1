@@ -7,7 +7,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseTest implements IAutoConsts
-	{
+	
+
+{
 		public static WebDriver driver;
 		public void openBrowser() throws Throwable 
 		{
